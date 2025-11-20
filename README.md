@@ -55,8 +55,8 @@ Here are some of my notable projects with more in-depth details:
   My profile repository, hosting this README and serving as a hub for ongoing personal experiments and profile enhancements.
 
 ## 🌐 Connect With Me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com) (Update this!)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [your-itsanirudh18@gmail.com](mailto:your-itsanirudh18@gmail.com) 
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/meanirudhkulkarni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
 
 ## 📈 GitHub Stats
